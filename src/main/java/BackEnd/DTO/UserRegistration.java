@@ -1,4 +1,4 @@
-package BackEnd.entity;
+package BackEnd.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

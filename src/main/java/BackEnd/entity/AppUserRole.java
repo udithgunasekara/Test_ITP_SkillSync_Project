@@ -1,2 +1,7 @@
-package BackEnd.entity;public enum AppUserRole {
+package BackEnd.entity;
+
+public enum AppUserRole {
+    //Freelancer
+    USER,
+    ADMIN
 }
